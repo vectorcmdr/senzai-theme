@@ -39,7 +39,7 @@ function darkModeReload() {
 }
 
 function getCopyright(){
-	document.getElementById("copyright").innerHTML = `&copy; 2023 - ${new Date().getFullYear()} <a href="https://github.com/lottehime">@lotte_hime</a>, all rights reserved.`;
+	document.getElementById("copyright").innerHTML = `&copy; 2023 - ${new Date().getFullYear()} <a href="https://github.com/vectorcmdr">@vector_cmdr</a>, all rights reserved.`;
 }
 
 window.onload = function() {
